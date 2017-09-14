@@ -5,7 +5,7 @@
 ![分桃装置全景图](design/device.png)
 
 
-##安装PaddlePaddle
+## 安装PaddlePaddle
 ```
 pip install paddlepaddle
 ```
