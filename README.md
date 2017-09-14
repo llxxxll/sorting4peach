@@ -4,6 +4,11 @@
 ## 分桃装置全景图
 ![分桃装置全景图](design/device.png)
 
+
+##安装PaddlePaddle
+```
+pip install paddlepaddle
+```
 ## 模型训练脚本
 ```
 python/train.py
