@@ -6,15 +6,15 @@
 
 
 ## 安装PaddlePaddle
-```
+```bash
 pip install paddlepaddle
 ```
 ## 模型训练脚本
-```
+```bash
 python/train.py
 ```
 ## 模型预测脚本
-```
+```bash
 python/infer.py
 ```
 ## 数据集
